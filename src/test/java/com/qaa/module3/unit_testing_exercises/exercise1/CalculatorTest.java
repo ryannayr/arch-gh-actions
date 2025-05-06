@@ -17,6 +17,7 @@ public class CalculatorTest {
 	@BeforeEach
 	public void setUp() {
 		calculator = new Calculator();
+		
 	}
 
 	@AfterEach
